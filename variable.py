@@ -2,7 +2,7 @@
 #level 1
 first_name = 'Mamatha'
 last_name = 'Avudoddi'
-full_name = first_name + last_name
+full_name = first_name +' ' + last_name
 country = 'India'
 city = 'Hyderabad'
 age = 22
