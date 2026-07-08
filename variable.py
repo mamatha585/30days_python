@@ -12,15 +12,4 @@ is_true = True
 is_light_on = False
 a,b,c = 2,3,4
 
-# level 2
-print(type(first_name))
-print(type(last_name))
-print(type(full_name))
-print(type(country))
-print(type(city))
-print(type(age))
-print(type(year))
-print(type(is_married))
-print(type(is_true))
-print(type(is_light_on))
-print(type(a),type(b) ,type(c))
+
