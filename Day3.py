@@ -16,7 +16,7 @@ a = int(input("Enter side a: "))
 b = int(input("Enter side b: "))
 c = int(input("Enter side c: "))
 print("Perimeter of triangle: ",a + b + c)
-
+c
 # Area of rectangle and perimeter of rectangle
 l = int(input("Enter length: "))
 w = int(input("Enter width: "))
